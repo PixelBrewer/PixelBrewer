@@ -7,3 +7,7 @@ Here are some ideas to get you started:
 -->
 
 Everything about me can be found on my personal site! [Pixelbrewer.dev](https://www.pixelbrewer.dev)
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/88525155-4cf2-46f2-8335-eb1fb85d46f2/thumbnail" >
+</p>
